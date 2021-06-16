@@ -23,9 +23,9 @@
       "collection": "tag"
     },
     "user": {
+      "via": "posts",
       "plugin": "users-permissions",
-      "model": "user",
-      "via": "posts"
+      "model": "user"
     }
   }
 }

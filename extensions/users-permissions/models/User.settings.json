@@ -62,6 +62,9 @@
     "posts": {
       "via": "user",
       "collection": "post"
+    },
+    "fullName": {
+      "type": "string"
     }
   }
 }

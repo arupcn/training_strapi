@@ -1,2 +1,3 @@
-# training_strapi
-this is just a practice project
+# Strapi application
+
+A quick description of your strapi application
